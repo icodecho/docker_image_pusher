@@ -1,2 +1,1 @@
-alpine
 whyour/qinglong:2.11.3
