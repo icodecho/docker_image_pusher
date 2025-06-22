@@ -2,4 +2,4 @@ whyour/qinglong:2.11.3
 supermanito/arcadia:beta
 shufflewzc/qrbbitpro:latest
 icepage/aujc:latest
-
+containrrr/watchtower:latest
