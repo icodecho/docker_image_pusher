@@ -3,3 +3,4 @@ supermanito/arcadia:beta
 shufflewzc/qrbbitpro:latest
 icepage/aujc:latest
 containrrr/watchtower:latest
+alpine:3.23.3
