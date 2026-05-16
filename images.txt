@@ -4,3 +4,4 @@ shufflewzc/qrbbitpro:latest
 icepage/aujc:latest
 containrrr/watchtower:latest
 alpine:3.23.3
+xhofe/alist:v3.60.0-aio
