@@ -1,5 +1,5 @@
 whyour/qinglong:2.11.3
-supermanito/arcadia:beta
+supermanito/arcadia:1.0.1
 shufflewzc/qrbbitpro:latest
 icepage/aujc:latest
 containrrr/watchtower:latest
