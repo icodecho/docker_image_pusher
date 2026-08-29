@@ -7,4 +7,4 @@ alpine:3.23.3
 xhofe/alist:v3.60.0-aio
 hjdhnx/drpy:amd64-v3.9.0
 linzixuanzz/daidai-panel:3.0.10-full
-
+golang:1.23-alpine
